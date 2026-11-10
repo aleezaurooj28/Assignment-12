@@ -1,0 +1,3 @@
+Log Entry Line 1: User Logged In
+Log Entry Line 2: Process Init
+Log Entry Line 3: Connection Saved

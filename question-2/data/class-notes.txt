@@ -1,0 +1,4 @@
+1. I learned that Node.js uses a single-threaded event loop.
+2. I learned how to use built-in core modules like 'fs' and 'path'.
+3. I learned that CommonJS uses require() and module.exports.
+4. I also learned about streams and asynchronous architectures.
